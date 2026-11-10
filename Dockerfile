@@ -1,4 +1,4 @@
-ARG LNBITS_VERSION=v1.4.2
+ARG LNBITS_VERSION=v1.7.0
 FROM lnbits/lnbits:${LNBITS_VERSION}
 
 # Copy setup script into the image
